@@ -4,6 +4,8 @@ This repository provides **MATLAB** and **Python** codes from MVA course on **Gr
 
 * **Spectral Clustering** Graph Construction, Connectivity, Graph Laplacian, RW Regularized Laplacian, Spectral Analysis and Clustering, Scalability, ARI, Image Segmentation 
 
+* **Online Face Recognition** (soon)
+
 
 ===============
 

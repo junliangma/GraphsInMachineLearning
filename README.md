@@ -6,6 +6,7 @@ This repository provides **MATLAB** and **Python** codes from MVA course on **Gr
 
 * **Online Face Recognition** Semi-Supervised Learning and Harmonic Function Solution, Hard HFS, Soft HFS, Offline Face Recognition with HFS, k-Centers Algorithm, Graph Quantization, Online SSL on real video
 
+* **Big Graphs** (soon)
 
 ===============
 

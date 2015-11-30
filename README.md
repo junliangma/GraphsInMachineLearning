@@ -4,7 +4,7 @@ This repository provides **MATLAB** and **Python** codes from MVA course on **Gr
 
 * **Spectral Clustering** Graph Construction, Connectivity, Graph Laplacian, RW Regularized Laplacian, Spectral Analysis and Clustering, Scalability, ARI, Image Segmentation 
 
-* **Online Face Recognition** Semi-Supervised Learning and Harmonic Function Solution, Hard HFS, Soft HFS, Offline Face Recognition with HFS, k-Centers Algorithm, Graph Quantization, Online SSL on real video
+* **Online Face Recognition** Semi-Supervised Learning and Harmonic Function Solution, Hard HFS, Soft HFS, Offline Face Recognition with HFS, k-Centers Algorithm, Graph Quantization, Online SSL on stream video
 
 * **Big Graphs** (soon)
 

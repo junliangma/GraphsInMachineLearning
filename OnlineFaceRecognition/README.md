@@ -2,7 +2,7 @@
 
 ===============
 
-<sup>*Guillaume Salha*
+<sup>*Guillaume Salha* 
 
 <sup>*École Normale Supérieure de Cachan*
 
